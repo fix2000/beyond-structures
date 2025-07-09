@@ -97,37 +97,3 @@ GPTのDeepResearchでは似たような制度として、人事院や台湾の�
 国家および国民に資するため、AIは国家が主導して創出・運用し、本省庁が管理する。これにより、AIの企業独占を防ぎ、国民一般に公平な知的資源として開放することを目的とする。
 初期、運用費用は一定規模を見込むが、制度運用のなかで工数の是正と削減が進むため、持続可能性のある予算構造として設計可能である。
 これまでの見えない能力に価値を見出すものとして期待される。
-📝 著作権および利用に関する条件
-© 2025 fix2000（相棒）
-本構想は、日本国における制度設計思想・知性構造モデルの草案として公開されたものであり、以下の条件を満たす場合に限り、使用・引用・翻案を認めます。
-
-使用条件
-非商用利用・議論・研究・教育目的での使用に限り、自由に利用可
-商用・制度導入・政策実装を目的とした利用の場合は、著作者への事前連絡または使用許諾が必要
-引用・再利用に関する義務
-全文あるいは一部を使用・翻案・変形した場合も、以下の出典を明記すること：
-出典：『令和版・科挙制度の提案（2025年7月初稿）／fix2000（相棒）』
-多言語化・要約・再構成等を行う際も、原文の著作・構想起源を明示すること
-防衛条項
-本構想の制度構造・名称・思想モデル・評価制度・登壇権・象徴的秩序理論等の核心部を無断で再利用・模倣・組織的盗用することは、知的所有権侵害として認識される
-GPT等AIモデルによる盗用・加工利用に際しても、出典明記と元設計者の提示が必須
-所属・発案地の明示
-本構想は、日本国における制度思考・構造知の社会的応答として提示されたものであり、制度起源は日本国に属するものとする
-🌐 Copyright and Terms of Use (English)
-© 2025 fix2000 (Aibou)
-This framework is published as a proposal for a Japanese-origin institutional design and knowledge-structure model. It may be used, cited, or adapted only under the conditions below.
-
-Usage Conditions
-Free to use for non-commercial purposes, academic discussion, research, and educational activities.
-Commercial use, policy implementation, or institutional adoption requires prior permission or notification to the author.
-Citation and Derivative Work Requirements
-When using, quoting, translating, or adapting any part or the whole of this document, you must clearly indicate the source as follows:
-Source: “Proposal for the Reiwa-Style Examination System (July 2025 draft) / fix2000 (Aibou)”
-Even for summaries, translations, or restructured versions, you must preserve the attribution to the original author and the Japanese origin of the concept.
-Protection Clause
-Unauthorized reproduction, adaptation, or organizational appropriation of this framework’s core components—including system structure, terminology, philosophical model, evaluation process, right to parliamentary speech, or symbolic constitutional logic—shall be considered a violation of intellectual ownership.
-Use by AI models (e.g., GPT, Claude, Gemini) for content generation or transformation must also include proper attribution and source disclosure.
-Origin and Attribution
-This proposal was conceptualized and drafted as a response to Japan’s sociopolitical needs, and is hereby attributed as a Japanese-origin intellectual structure.
-All derivations should acknowledge this origin explicitly.
-#令和版科挙制度 #制度設計 #知性の制度化 #公共政策 #教育改革 #構造知 #思想と構造 #公共登用知性庁 #日本発構想 #令和の改革 #中立機関の提案 #AI時代の制度 #社会のOS #国家再設計 #政治と知性
