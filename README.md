@@ -5,7 +5,8 @@ This is not a repository of answers, but a record of attempts to think without p
 
 This repository is licensed under  
 [Creative Commons BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-No commercial use. No derivatives. Attribution required.
+No commercial use. No derivatives. Attribution required.  
+**→ 詳細条件と出典義務については、[著作権と使用条件.md](./著作権と使用条件.md) を参照してください。**
 
 
 ## 令和版科挙制度 ── 知性による制度の再設計
