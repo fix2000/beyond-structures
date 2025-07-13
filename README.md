@@ -68,6 +68,40 @@ No commercial use. No derivatives. Attribution required.
 
 ---
 
+## 🧭 What is “San-Shin”?
+
+> **“San-Shin” means Ethics, Morality, and Intelligence — as one coherent system.**
+
+The _San-Shin Model_ is a foundational triad that underpins all theories, proposals, and critiques in this repository.
+
+It defines:
+
+- **Ethics**: Transcendent principles beyond individual or social bias. (Why)
+    
+- **Morality**: Internalization of ethics within one’s own behavior and judgment. (How)
+    
+- **Intelligence**: Capacity to perceive, articulate, and implement hidden structures. (What)
+    
+
+These three are **hierarchically integrated**:
+
+`Ethics → Morality → Intelligence (Why)     (How)       (What)`
+
+They must always **co-exist** to form valid systems.
+
+|Absence of...|Results in...|
+|---|---|
+|Ethics|Opportunism and manipulation|
+|Morality|Bureaucracy and externalization|
+|Intelligence|Ideological idealism and impracticality|
+
+> Only those who embody all three deserve to speak on social systems.
+
+For the full English explanation, see:  
+📄 [San-Shin_Model_EN.md](./三心思想/San-Shin_Model_EN.md)
+
+---
+
 ## 🧭 三心による人間完成論（思想の根幹定義）
 
 > **人間の完成とは、倫理・道徳・知性の三つが統合されて初めて達成される。**
