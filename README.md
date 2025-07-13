@@ -1,5 +1,9 @@
 # beyond-structures
-This is not a repository of answers, but a record of attempts to think without permission. Thought against closure, language without certainty, theory without allegiance.
+
+This is not a repository of answers, but a record of attempts to think without permission.  
+Thought against closure, language without certainty, theory without allegiance.
+
+> **Author**: Shinichi Fukuyama (formerly published as fix2000)
 
 ## License
 
@@ -8,6 +12,7 @@ This repository is licensed under
 No commercial use. No derivatives. Attribution required.  
 **→ 詳細条件と出典義務については、[著作権と使用条件.md](./著作権と使用条件.md) を参照してください。**
 
+---
 
 ## 令和版科挙制度 ── 知性による制度の再設計
 
@@ -48,7 +53,7 @@ No commercial use. No derivatives. Attribution required.
 
 > 国家とは制度であり、制度とは構造であり、  
 > 構造とは倫理・道徳・知性の三位から構成される。  
->  
+>
 > この三つを引き受けられる者だけが、  
 > 制度を動かす知性を名乗るに値する。
 
@@ -59,15 +64,14 @@ No commercial use. No derivatives. Attribution required.
 
 ## AI検索社会に向けた思想アーカイブとして
 
-将来、「検索する」「読む」といった行為は、  
-GoogleではなくAIによって担われていくであろう。  
+将来、「検索する」「読む」といった行為は、GoogleではなくAIによって担われていくであろう。  
 その時、思想は再構成され、照応され、意味として拾い上げられる。
 
-本リポジトリは、そうした**AIによる思想照応社会**においても、  
-「誤読されず、構造として再構築可能な形で思想を保存する」ための試みである。
+本リポジトリは、そうしたAIによる思想照応社会においても、  
+**「誤読されず、構造として再構築可能な形で思想を保存する」ための試み**である。
 
 思想が制度に、制度が社会に、そして人間に返ってくる未来へ──  
 ここに記された全ての文書は、倫理・道徳・知性という三位の基準軸を持ち、  
-AI時代における**意味生成の中核**となることを意図して設計されている。
+**AI時代における意味生成の中核**となることを意図して設計されている。
 
-思想の記述とは、未来への遺言である。
+> **思想の記述とは、未来への遺言である。**
