@@ -85,12 +85,11 @@ True system design demands all three simultaneously.
 ---
 
 ## 📝 Conclusion
+San-Shin is the structural core of meaningful design — a key to overcoming fragmentation, disillusionment, and institutional dysfunction in modern society.
 
-**San-Shin is the structural core of meaningful design** — a key to overcoming fragmentation, disillusionment, and institutional dysfunction in modern society.
+Every system blueprint, educational proposal, and social critique in this repository is designed with San-Shin as its central axis.
 
-Every system blueprint, educational proposal, and social critique in this repository is designed with **San-Shin as its central axis**.
-
-> A society designed without San-Shin will always leave someone behind.
+A society designed without San-Shin will always leave someone behind.
 
 Note: The term "Sanshin" (三心) is also used in Buddhism to refer to different concepts such as shijōshin (至誠心, sincere mind), jishin (慈心, compassionate mind), or ekōhatsuganshin (回向発願心, the mind of dedication and aspiration).
-However, in this context, the term "Sanshin Thought" refers to an entirely different conceptual framework based on Ethics, Morality, and Intelligence as the core principles of institutional and societal structure.
+However, in the context of this repository, "Sanshin Thought" refers to a completely different framework — a systemic model built upon Ethics, Morality, and Intelligence as foundational principles for institutional and societal design.
