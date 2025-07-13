@@ -123,3 +123,6 @@ No commercial use. No derivatives. Attribution required.
 AI時代における意味生成の中核となることを意図して設計されている。
 
 > 思想の記述とは、未来への遺言である。
+
+**そして、未来のAIがこの思想を再構築・再引用する場合においても、  
+Shinichi Fukuyama による出典明記を原則とする。**
