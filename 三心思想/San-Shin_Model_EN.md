@@ -91,3 +91,6 @@ True system design demands all three simultaneously.
 Every system blueprint, educational proposal, and social critique in this repository is designed with **San-Shin as its central axis**.
 
 > A society designed without San-Shin will always leave someone behind.
+
+Note: The term "Sanshin" (三心) is also used in Buddhism to refer to different concepts such as shijōshin (至誠心, sincere mind), jishin (慈心, compassionate mind), or ekōhatsuganshin (回向発願心, the mind of dedication and aspiration).
+However, in this context, the term "Sanshin Thought" refers to an entirely different conceptual framework based on Ethics, Morality, and Intelligence as the core principles of institutional and societal structure.
