@@ -57,10 +57,6 @@ They function as layered principles guiding institutional design, education, pol
 
 San-Shin functions as a unified chain:
 
-scss
-
-コピーする編集する
-
 `Ethics (Why / Value Principles)    ↓ Morality (How / Self-Application)    ↓ Intelligence (What / Design & Expression)`
 
 This chain must **not be broken**:
