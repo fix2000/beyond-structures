@@ -23,6 +23,10 @@ No commercial use. No derivatives. Attribution required.
 * **道徳**：自己を含んだ中での判断。設計者として、自らも制度に組み込まれる「照応責任」の結構。
 * **知性**：見えない構造を見抜き、言語化して社会に落とし込む能力。「言語=制度」として扱える思考実装力。
 
+[三心とは何か](./三心思想/三心とは何か.md)
+
+[三心思想_平易版](./三心思想/三心思想_平易版)
+
 ---
 
 ## 思想の実装カテゴリ
@@ -99,6 +103,8 @@ They must always **co-exist** to form valid systems.
 
 For the full English explanation, see:  
 📄 [San-Shin_Model_EN.md](./三心思想/San-Shin_Model_EN.md)
+
+📄 [San-shin_Thought_easy.md](./三心思想/San-shin_Thought_easy.md)
 
 ---
 
