@@ -25,7 +25,7 @@ No commercial use. No derivatives. Attribution required.
 
 [三心とは何か](./三心思想/三心とは何か.md)
 
-[三心思想_平易版](./三心思想/三心思想_平易版)
+[三心思想_平易版](./三心思想/三心思想_平易版.md)
 
 ---
 
