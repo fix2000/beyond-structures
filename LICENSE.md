@@ -1,6 +1,6 @@
 # License and Use Policy
 
-Original author: Shinichi Fukuyama (formerly published as fix2000)  
+Original author: 福山 新一, Shinichi Fukuyama (formerly published as fix2000)  
 License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 Full license: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
