@@ -196,7 +196,7 @@
 このディレクトリには、思索途中の文書や未整理のメモを置いている。  
 完成後、各テーマに分類していく。
 
-- [workspace/ を開く](../workspace/)
+- [workspace を開く](../workspace/index.md)
 
 ---
 
