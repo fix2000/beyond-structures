@@ -1,7 +1,7 @@
 # Beyond Structures
 ## 三心思想・制度論・文明の再設計
 
-→ [総合INDEX](/beyond-structures/docs/all-works.md)
+→ [総合INDEX](/beyond-structures/docs/all-works.html)
 
 私は長い時間をかけて、人間の在り方、社会の仕組み、制度の歪みについて考えてきた。  
 このサイトは、私が整理し続けてきた思想群を、読みやすい形でまとめたものになる。
@@ -15,7 +15,7 @@
 ---
 
 # 1. 三心思想（基礎）
-→ [三心思想](/beyond-structures/docs/three-minds.md)
+→ [三心思想](/beyond-structures/docs/three-minds.html)
 
 三心（倫理・道徳・知性）は、人の判断や行動の基盤になるものだと私は考えている。  
 社会の問題の多くは、この三つのずれから生じているように見える。
@@ -23,21 +23,21 @@
 ---
 
 # 2. 令和版科挙制度
-→ [令和版科挙制度](/beyond-structures/docs/kakyo.md)
+→ [令和版科挙制度](/beyond-structures/docs/kakyo.html)
 
 学歴や暗記ではなく、三心に基づいて人の判断力や人格を測る制度として考えている。
 
 ---
 
 # 3. 知性院構想
-→ [知性院構想](/beyond-structures/docs/intelligence-agency.md)
+→ [知性院構想](/beyond-structures/docs/intelligence-agency.html)
 
 政治・行政の外側に、中立的な提言機関が必要だと私は考えている。
 
 ---
 
 # 4. 教育の再設計
-→ [教育について](/beyond-structures/docs/education.md)
+→ [教育について](/beyond-structures/docs/education.html)
 
 教育は、人格を形作るための基盤である。  
 知識だけではなく、倫理や道徳、ものごとを見る視点を育てる必要がある。
@@ -45,7 +45,7 @@
 ---
 
 # 5. AIと情報環境
-→ [AI・情報構造](/beyond-structures/docs/ai.md)
+→ [AI・情報構造](/beyond-structures/docs/ai.html)
 
 AIは便利ではあるが、思考や判断を委ねれば人は弱くなる。  
 私が考える「AI時代の人間の姿勢」をまとめている。
@@ -53,7 +53,7 @@ AIは便利ではあるが、思考や判断を委ねれば人は弱くなる。
 ---
 
 # 6. 経済・労働・貨幣
-→ [経済・労働・貨幣](/beyond-structures/docs/economy.md)
+→ [経済・労働・貨幣](/beyond-structures/docs/economy.html)
 
 現場労働の価値が軽視され、資本偏重の社会になっている。  
 私は、労働の価値と貨幣の扱いについて、長い視点から考えている。
@@ -61,7 +61,7 @@ AIは便利ではあるが、思考や判断を委ねれば人は弱くなる。
 ---
 
 # 7. 補助文書・思想メモ
-→ [補助文書](/beyond-structures/docs/philosophy.md)
+→ [補助文書](/beyond-structures/docs/philosophy.html)
 
 三心思想の背景にある考え方や、思想の基盤となる要素を整理した文書。
 
@@ -75,12 +75,12 @@ AIは便利ではあるが、思考や判断を委ねれば人は弱くなる。
 ここで公開される文書はすべて、  
 相互リンクされた一つの体系として読めるように設計されています。
 
-→ [総合INDEX](/beyond-structures/docs/all-works.md)
+→ [総合INDEX](/beyond-structures/docs/all-works.html)
 
 ---
 
 ## 利用条件・著作権について
-→ [README.md](/beyond-structures/README.md)
+→ [README.md](/beyond-structures/README.html)
 
 このリポジトリの利用条件、著作権に関する方針、  
 および思想文書の扱いに関する注意事項は README にまとめています。
