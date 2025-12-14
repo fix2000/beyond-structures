@@ -19,7 +19,7 @@
 - [三心思想_初級平易版](../三心思想/三心思想_初級平易版.md)
 - [三心思想_中級平易版](../三心思想/三心思想_中級平易版.md)
 - [三心的理解プロセスの実際](../三心思想/三心的理解プロセスの実際.md)
-- [English Version](../workspace/The-Tri-Mind-Structural-Framework:.md)
+- [English Version](../三心思想/English/The-Tri-Mind-Structural-Framework:.md)
 
 **中核**
 
