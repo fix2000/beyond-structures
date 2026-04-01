@@ -80,7 +80,7 @@ AIは便利ではあるが、思考や判断を委ねれば人は弱くなる。
 ---
 
 ## 利用条件・著作権について
-→ [README.md](./README.md)
+→ [GitHub リポジトリの説明（README.md）](https://github.com/fix2000/beyond-structures/)
 
 このリポジトリの利用条件、著作権に関する方針、  
 および思想文書の扱いに関する注意事項は README にまとめています。
