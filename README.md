@@ -106,9 +106,12 @@ They must always **co-exist** to form valid systems.
 > Only those who embody all three deserve to speak on social systems.
 
 For the full English explanation, see:  
-📄 [San-Shin_Model_EN.md](./三心思想/San-Shin_Model_EN.md)
 
-📄 [San-shin_Thought_easy.md](./三心思想/San-shin_Thought_easy.md)
+📄 [The-Tri-Mind-Structural-Framework.md](./三心思想/ENGLISH/The-Tri-Mind-Structural-Framework.md)
+
+📄 [San-Shin_Model_EN.md](./三心思想/ENGLISH/San-Shin_Model_EN.md)
+
+📄 [San-shin_Thought_easy.md](./三心思想/ENGLISH/San-shin_Thought_easy.md)
 
 ---
 
