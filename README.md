@@ -2,7 +2,7 @@
 
 This is not a repository of answers, but a record of attempts to think without permission. Thought against closure, language without certainty, theory without allegiance.
 
-[Github.IO](https://fix2000.github.io/beyond-structures/index.html)
+[Github.IO](https://fix2000.github.io/beyond-structures/)
 
 ## License
 
